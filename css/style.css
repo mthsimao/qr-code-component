@@ -5,9 +5,9 @@
 :root {
     --font-main: 'Outfit', sans-serif;
     --color-white: #ffffff;
-    --color-gray: #909091;
-    --color-blue: #91c2fa75;
-    --color-darkblue: #1f3251;
+    --color-gray: hsl(212, 45%, 89%);
+    --color-blue: hsl(220, 15%, 55%);
+    --color-darkblue: hsl(218, 44%, 22%);
 }
 
 * {
@@ -29,7 +29,7 @@ p {
     background-color: var(--color-blue);
     box-shadow: 5px 5px 6px 3px rgba(0, 0, 0, 0.106);
     width: 1440px;
-    height: 660px;
+    height:700px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -55,21 +55,20 @@ p {
 .element-text h1, p {
     text-align: center;
     width: 260px;
+    padding-bottom: 16px;
 }
 
 .element-text h1 {
-   font-size: 20px;
-   padding-bottom: 12px;
+   font-size: 22px;
 }
 
 .element-text p {
-    color: var(--color-gray);
-    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.201);
-    padding-bottom: 15px;
+    color: var(--color-darkblue);
+    font-size: 16px;
 }
 
 .image {
-    width: 256px;
+    width: 286px;
     border-radius: 10px;
 }
 
