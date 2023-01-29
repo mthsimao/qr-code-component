@@ -10,6 +10,7 @@ I made this project with the aim of improving my skills in HTML and CSS.
  - Flexbox
  
  ## Author
-
-- Website - Matheus Simão (https://mthsimao.github.io/portfolio/)
-- Frontend Mentor - [@mthsimao](https://www.frontendmentor.io/profile/mthsimao)
+ 
+- Website - [Matheus Simão](https://mthsimao.github.io/portfolio/)
+- Frontend Mentor - [@mthsimao](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@yourusername](https://www.twitter.com/yourusername)
