@@ -1,3 +1,15 @@
 # qr-code-component
 
-I did that project with a propose to improve my skills in HTML and CSS, credits by: <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank">Frontend Mentor</a>
+I made this project with the aim of improving my skills in HTML and CSS.
+
+## My process
+
+### Build with
+ - Semantic HTML5 markup
+ - CSS custom properties
+ - Flexbox
+ 
+ ## Author
+
+- Website - [Matheus Simão] (https://www.your-site.com)
+- Frontend Mentor - [@mthsimao](https://www.frontendmentor.io/profile/mthsimao)
