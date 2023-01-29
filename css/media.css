@@ -1,0 +1,11 @@
+@media (max-width:1024px) {
+    .background {
+        width: 800px;
+    }
+}
+
+@media (max-width:380px) {
+    .background {
+        width: 370px;
+    }
+} 
